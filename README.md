@@ -1,4 +1,4 @@
-**Attention: this project is no longer maintened. **
+**Attention: this project is no longer maintened.**
 
 ##About
 This is some old code from my undergraduate work about energy saving in server clusters from 2011.
